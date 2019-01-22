@@ -21,7 +21,7 @@ Implementation of B+ index tree
     make am_main3
     ./build/am_main3
 ```
-In order to delete the creates files run
+In order to delete the created files run
 ```
     make clean
 ```
