@@ -10,7 +10,7 @@ Implementation of B+ index tree
     ./build/am_main1
 ```
 
-2.Executes more complex queries queries to the B+ trees. Compile and run as
+2.Executes more complex queries to the B+ trees. Compile and run as
 ```
     make am_main2
     ./build/am_main3
