@@ -1,6 +1,6 @@
 # IDBS_Proj2
 
-Implementation of B+ index tree
+Implementation of B+ index tree for the implementation of Data Base Systems class.
 
 3 main functions to run.
 
@@ -21,6 +21,7 @@ Implementation of B+ index tree
     make am_main3
     ./build/am_main3
 ```
+
 In order to delete the created files run
 ```
     make clean
