@@ -6,23 +6,23 @@ Implementation of B+ index tree for the implementation of Data Base Systems clas
 
 1. Creates the B+ Trees, inserts the data into them and does some queries. Compile and run as
 ```
-    make am_main1
-    ./build/am_main1
+make am_main1
+./build/am_main1
 ```
 
 2.Executes more complex queries to the B+ trees. Compile and run as
 ```
-    make am_main2
-    ./build/am_main3
+make am_main2
+./build/am_main3
 ```
 
 2. Deletes the B+ trees. Compile and run as
 ```
-    make am_main3
-    ./build/am_main3
+make am_main3
+./build/am_main3
 ```
 
 In order to delete the created files run
 ```
-    make clean
+make clean
 ```
